@@ -1,0 +1,19 @@
+{
+    "name": "rakeshj/greetr",
+    "description": "Greetr - A simple laravel package for learning",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rakesh Jangir",
+            "email": "rjtarpura@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Rakeshj\\Greetr\\": "src/"
+		}
+	},
+    "minimum-stability": "dev",
+    "require": {}
+}
